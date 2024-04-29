@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "ASPNETCORE",
+    "datetime",
+    "localdb",
+    "nvarchar",
+    "occured",
+    "SQLEXPRESS",
+    "uniqueidentifier"
+  ],
+  "folder-color.pathColors": [
+    {
+      "folderPath": "Reactivities\\API\\",
+      "color": "foldercolorizer.White"
+    }
+  ]
+}
